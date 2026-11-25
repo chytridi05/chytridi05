@@ -12,6 +12,9 @@
 
 ## Featured Projects 🗃️
 
+- **[Twice Abandoned](https://github.com/chytridi05/inscryption-twice-abandoned)** — An Inscryption mod that adds Coward's Hand, a challenge with a custom starting state.
+- **[Android-to-Windows libGDX Porting Toolkit](https://github.com/chytridi05/android-porting)** — A desktop app and CLI that generate editable Gradle desktop projects and package compatible games for Windows x64.
+
 > **Inscryption GBC Mod**: [GBC](https://github.com/chytridi05/GBC)
 
 <div style="display: flex; flex-wrap: wrap;">
